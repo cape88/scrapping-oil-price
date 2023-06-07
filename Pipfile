@@ -9,6 +9,7 @@ pandas = "*"
 xlrd = "*"
 seaborn = "*"
 koreanize-matplotlib = "*"
+folium = "*"
 
 [dev-packages]
 ipykernel = "*"

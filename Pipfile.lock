@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "2402043e6efa27b065efe60c6fe5b818880dc3610528000e4e1e79272c151004"
+            "sha256": "332ea90c924308dc9f3558c5beb57b5f1447c02bc27897fa876746ebd5e3597d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -215,6 +215,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==1.4.4"
+        },
+        "koreanize-matplotlib": {
+            "hashes": [
+                "sha256:0930075aac18aab8bc871fc76134776b8bc240bd1cd2acfc00ebd3713323c444",
+                "sha256:4f563db1a75d9eb6bdb667a435adf8a5daf7e41504486f1b0fb1c20e4bfed4ca"
+            ],
+            "index": "pypi",
+            "version": "==0.1.1"
         },
         "matplotlib": {
             "hashes": [

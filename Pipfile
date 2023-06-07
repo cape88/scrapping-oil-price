@@ -5,8 +5,12 @@ name = "pypi"
 
 [packages]
 selenium = "*"
+pandas = "*"
+xlrd = "*"
+seaborn = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.11"
